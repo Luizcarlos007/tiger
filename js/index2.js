@@ -2,7 +2,7 @@ const body = document.querySelector('body');
 const topBar = `<div class="top-bar">
 <div class="container-layout">
   <div class="top-bar-content">
-    <a href="../index.html">
+    <a href="https://luizcarlos007.github.io/principal/">
       <div class='item'>
         <i class='bx bx-left-arrow-alt'></i>
         <span>
